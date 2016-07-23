@@ -1,6 +1,6 @@
 {
   "name": "open-graph-response",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "build valid open graph html text from js object",
   "main": "index.js",
   "scripts": {
